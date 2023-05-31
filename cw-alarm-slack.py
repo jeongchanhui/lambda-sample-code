@@ -1,3 +1,5 @@
+# Slack Webhook으로 CloudWatch Event를 전송하는 함수 
+
 from datetime import datetime, timedelta, timezone
 import os
 import urllib3
